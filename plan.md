@@ -14,6 +14,7 @@ A general overview:
 
 
 - Basic pygame stuff
+    - installation
     - set_as
     - drawing a circle using set_as, just as a demo
     - saving the surface as an image
@@ -24,8 +25,7 @@ A general overview:
     - saving an image
 
 - T cross fractal
-    - generating and plotting points for it
-    - circular gradient
+    - generating and plotting points for it: just skimming over the code after an explanation on the board
     - saving an image
 
 - Mandelbrot set
